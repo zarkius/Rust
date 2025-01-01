@@ -7,7 +7,7 @@ name = "PokeMonster"
 version = "0.1.0"
 dependencies = [
  "glium",
- "nix 0.20.2",
+ "nix 0.24.3",
  "sys-info",
  "winit 0.26.1",
 ]
