@@ -1,0 +1,11 @@
+/home/v1/Escritorio/Rust/target/debug/deps/libaddr2line-51d394a4973c1552.rmeta: /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lib.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/frame.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/function.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lazy.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/line.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lookup.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/unit.rs
+
+/home/v1/Escritorio/Rust/target/debug/deps/addr2line-51d394a4973c1552.d: /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lib.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/frame.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/function.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lazy.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/line.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lookup.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/unit.rs
+
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lib.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/frame.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/function.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lazy.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/line.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lookup.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/unit.rs:

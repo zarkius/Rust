@@ -11,10 +11,8 @@ fn generar_ventana_linux() {
         .with_inner_size(glium::glutin::dpi::LogicalSize::new(800.0, 600.0))
         .with_min_inner_size(glium::glutin::dpi::LogicalSize::new(400.0, 300.0));
     // Tamaño mínimo de la ventana
-    
     let context_builder = glium::glutin::ContextBuilder::new();
     let display = glium::Display::new(window_builder, context_builder, &event_loop).unwrap();
-    
     event_loop.run(move |event, _, control_flow| {
         *control_flow = glium::glutin::event_loop::ControlFlow::Wait;
     
@@ -29,7 +27,7 @@ fn generar_ventana_linux() {
         }
     
         let mut target = display.draw();
-        target.clear_color(0.0, 0.0, 1.0, 1.0);
+        target.clear_color(1.0, 0.0, 0.0, 1.0);
         target.finish().unwrap();
     });
     }

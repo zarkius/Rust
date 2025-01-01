@@ -1,0 +1,16 @@
+/home/v1/Escritorio/Rust/target/debug/deps/libwayland_client-34862c15cbf0bd53.rmeta: /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/lib.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/display.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/event_queue.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/globals.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/proxy.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/mod.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/display.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/event_queue.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/proxy.rs /home/v1/Escritorio/Rust/target/debug/build/wayland-client-8d331951213a149b/out/wayland_api.rs
+
+/home/v1/Escritorio/Rust/target/debug/deps/wayland_client-34862c15cbf0bd53.d: /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/lib.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/display.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/event_queue.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/globals.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/proxy.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/mod.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/display.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/event_queue.rs /home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/proxy.rs /home/v1/Escritorio/Rust/target/debug/build/wayland-client-8d331951213a149b/out/wayland_api.rs
+
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/lib.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/display.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/event_queue.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/globals.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/proxy.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/mod.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/display.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/event_queue.rs:
+/home/v1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.28.6/src/native_lib/proxy.rs:
+/home/v1/Escritorio/Rust/target/debug/build/wayland-client-8d331951213a149b/out/wayland_api.rs:
+
+# env-dep:OUT_DIR=/home/v1/Escritorio/Rust/target/debug/build/wayland-client-8d331951213a149b/out
