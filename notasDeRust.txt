@@ -1,0 +1,3 @@
+En Rust, la implementación del trait Copy no es aplicable a las cadenas de caracteres (String) porque el trait Copy se utiliza para tipos que pueden ser copiados superficialmente de manera muy barata, sin la necesidad de gestionar la memoria manualmente.
+
+Las cadenas de caracteres en Rust (String) no implementan Copy porque el proceso de copiar una cadena implica una operación de asignación de memoria en el montón, lo cual no es una operación barata. En lugar de Copy, las cadenas de caracteres implementan el trait Clone, que es adecuado para tipos que requieren una copia más profunda.
