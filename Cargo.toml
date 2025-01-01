@@ -6,5 +6,5 @@ edition = "2021"
 [dependencies]
 glium = "0.29"
 winit = "0.26"
-nix = "0.20.2"
+nix = "0.24.3"
 sys-info = "0.9.1"
