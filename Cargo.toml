@@ -4,4 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+glium = "0.29"
+winit = "0.26"
 sys-info = "0.9.1"
