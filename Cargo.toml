@@ -5,6 +5,7 @@ edition = "2021"
 
 [dependencies]
 glium = "0.29"
-winit = "0.26"
-nix = "0.29.0"
+nix = "0.20.2"
 sys-info = "0.9.1"
+ab_glyph = "0.2"
+glyph_brush = "0.7"
