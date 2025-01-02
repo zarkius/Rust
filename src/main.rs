@@ -7,7 +7,7 @@ use glium::Surface;
 fn generar_ventana_linux() {
     let event_loop = EventLoop::new();
     let window_builder = WindowBuilder::new()
-        .with_title("LAURA QUIERES POLLA")
+        .with_title("Reemplazar por tu titulo")
         .with_inner_size(glium::glutin::dpi::LogicalSize::new(800.0, 600.0))
         .with_min_inner_size(glium::glutin::dpi::LogicalSize::new(400.0, 300.0));
     // Tamaño mínimo de la ventana
