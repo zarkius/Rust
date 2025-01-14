@@ -1,0 +1,1 @@
+{"rustc":6294317376553613522,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[9336583592607346701,"build_script_main",false,1889300469792667718]],"local":[{"RerunIfChanged":{"output":"debug/build/glium-bb9ae970653409f8/output","paths":["build/main.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
